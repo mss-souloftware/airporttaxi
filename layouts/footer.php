@@ -48,7 +48,7 @@
                     <h6>Newsletter</h6>
                     <p>Stay update with our latest</p>
                     <div class id="mc_embed_signup">
-                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
+                        <form target="_blank" action="#" method="get" class="form-inline">
                             <input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required type="email">
                             <button class="click-btn btn btn-default"><span class="lnr lnr-arrow-right"></span></button>
                             <div style="position: absolute; left: -5000px;">
@@ -69,5 +69,5 @@
             </p>
         </div>
     </div>
-    <img class="footer-bottom" src="img/footer-bottom.png" alt>
+    <img class="footer-bottom" src="assets/img/footer-bottom.png" alt>
 </footer>

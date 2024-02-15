@@ -9,46 +9,46 @@
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
                     <li class="menu-active"><a href="index.php">Home</a></li>
-                    <li><a href="about.html">Q&A</a></li>
-                    <li><a href="service.html">T&C</a></li>
-                    <li><a href="gallery.html">Vehicle Calculator</a></li>
+                    <li><a href="#">Q&A</a></li>
+                    <li><a href="tandc.php">T&C</a></li>
+                    <li><a href="#">Vehicle Calculator</a></li>
                     <li class="menu-has-children"><a href="javascript:void(0);">Popular Locations</a>
                         <ul>
-                            <li><a href="#">Aberdeen</a>
-                            <li><a href="#">Belfast-City</a>
-                            <li><a href="#">Belfast-International</a>
-                            <li><a href="#">Birmingham</a>
-                            <li><a href="#">Blackpool</a>
-                            <li><a href="#">Bournemouth</a>
-                            <li><a href="#">Bristol</a>
-                            <li><a href="#">Cardiff</a>
-                            <li><a href="#">Coventry</a>
-                            <li><a href="#">East-Midlands</a>
-                            <li><a href="#">Edinburgh</a>
-                            <li><a href="#">Exeter</a>
-                            <li><a href="#">Gatwick</a>
-                            <li><a href="#">Glasgow</a>
-                            <li><a href="#">Heathrow</a>
-                            <li><a href="#">Humberside</a>
-                            <li><a href="#">Inverness</a>
-                            <li><a href="#">Leeds-Bradford</a>
-                            <li><a href="#">Liverpool</a>
-                            <li><a href="#">London-City</a>
-                            <li><a href="#">Luton</a>
-                            <li><a href="#">Manchester</a>
-                            <li><a href="#">Newcastle</a>
-                            <li><a href="#">Newquay</a>
-                            <li><a href="#">Norwich</a>
-                            <li><a href="#">Plymouth</a>
-                            <li><a href="#">Prestwick</a>
-                            <li><a href="#">Sheffield</a>
-                            <li><a href="#">Southampton</a>
-                            <li><a href="#">Southend</a>
-                            <li><a href="#">Stansted</a>
-                            <li><a href="#">Teesside</a>
+                            <li><a href="location.php">Aberdeen</a>
+                            <li><a href="location.php">Belfast-City</a>
+                            <li><a href="location.php">Belfast-International</a>
+                            <li><a href="location.php">Birmingham</a>
+                            <li><a href="location.php">Blackpool</a>
+                            <li><a href="location.php">Bournemouth</a>
+                            <li><a href="location.php">Bristol</a>
+                            <li><a href="location.php">Cardiff</a>
+                            <li><a href="location.php">Coventry</a>
+                            <li><a href="location.php">East-Midlands</a>
+                            <li><a href="location.php">Edinburgh</a>
+                            <li><a href="location.php">Exeter</a>
+                            <li><a href="location.php">Gatwick</a>
+                            <li><a href="location.php">Glasgow</a>
+                            <li><a href="location.php">Heathrow</a>
+                            <li><a href="location.php">Humberside</a>
+                            <li><a href="location.php">Inverness</a>
+                            <li><a href="location.php">Leeds-Bradford</a>
+                            <li><a href="location.php">Liverpool</a>
+                            <li><a href="location.php">London-City</a>
+                            <li><a href="location.php">Luton</a>
+                            <li><a href="location.php">Manchester</a>
+                            <li><a href="location.php">Newcastle</a>
+                            <li><a href="location.php">Newquay</a>
+                            <li><a href="location.php">Norwich</a>
+                            <li><a href="location.php">Plymouth</a>
+                            <li><a href="location.php">Prestwick</a>
+                            <li><a href="location.php">Sheffield</a>
+                            <li><a href="location.php">Southampton</a>
+                            <li><a href="location.php">Southend</a>
+                            <li><a href="location.php">Stansted</a>
+                            <li><a href="location.php">Teesside</a>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
         </div>
